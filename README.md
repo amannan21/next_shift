@@ -6,4 +6,4 @@ Run by doing:
 2.) npm run dev
 
 
-https://amannan21.github.io/next_shift/
+https://spectacular-tanuki-10d77f.netlify.app/
